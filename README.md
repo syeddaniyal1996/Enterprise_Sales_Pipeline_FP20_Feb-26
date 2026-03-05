@@ -1,8 +1,6 @@
 # Enterprise_Sales_Pipeline_FP20_Feb-26
 Enterprise sales analytics dashboard built in Power BI to evaluate a €1.02bn pipeline with 291% YoY growth.  Covers executive KPIs, regional and product performance, and 4,981-deal sales team analysis with a 60% win rate.  Includes risk assessment, gap-to-target tracking, and revenue forecasting to support data-driven sales decisions.
 
-Project Drive Address: https://drive.google.com/drive/folders/1FIlUeb6TwWpvD7TAY6dES28JoHqxnbAN
-
 # 1. Project Overview
 
 Short description of the dashboard (what it does, scale of data, purpose).
@@ -31,13 +29,13 @@ Any data preparation tools: PowerBI Solely.
 # 5. Visuals / Screenshots
 
 # Page 01: Executive Pipeline Summary (The Strategy)
-<img width="1566" height="904" alt="01" src="https://github.com/user-attachments/assets/aff7f922-f67f-42ce-a328-1d0c874e411e" />
+<img width="1563" height="901" alt="01" src="https://github.com/user-attachments/assets/646be0c9-16b0-4fd5-a01a-ea1b94694efd" />
 
 # Page 02: Sales Velocity & Team Performance (The People)
-<img width="1563" height="903" alt="02" src="https://github.com/user-attachments/assets/5a05ccd7-54d0-4e6d-b47c-e9e6e6b73dae" />
+<img width="1564" height="899" alt="02" src="https://github.com/user-attachments/assets/259c1206-6a62-4468-a967-d3a9795bc5f6" />
 
 # Page 03: Risk & Forecasting (Predictive Insights)
-<img width="1562" height="903" alt="03" src="https://github.com/user-attachments/assets/12e3064a-1987-45e3-abb0-7a54bf21d571" />
+<img width="1560" height="900" alt="03" src="https://github.com/user-attachments/assets/09da3d7c-afdf-4696-ba8c-304f7ad7e43e" />
 
 # 6. Usage / How to Interact
 
